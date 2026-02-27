@@ -2,4 +2,4 @@
 
 //alert(3 + 3) //we are using nodejs note browser//
 
-console.log(3 + 3)
+console.log(3 + 3) 
